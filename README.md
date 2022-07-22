@@ -5,6 +5,7 @@
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
 ## :cyclone: Showcase :
+I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
 #### [Eltanin](/Eltanin) theme
 
