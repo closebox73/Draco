@@ -19,6 +19,12 @@ I invite anyone who wants to show Conky's creations here, just send it in the is
 
 ![](/Asset/Grumium.png)
 - Now only available at Pling.com [Link](https://www.pling.com/p/1859115/)
+#### [Edasich](/Edasich) theme
+Light version
+![](/Asset/Edasich.png)
+Dark version
+![](/Asset/Edasich_dark.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1832461/)
 ------------------------------------------------------------------------
 
 ## :cyclone: Tip Jar :
