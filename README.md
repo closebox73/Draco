@@ -7,6 +7,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 I invite anyone who wants to show Conky's creations here, just send it in the issue and I will display it at the bottom of the readme
 
+#### [Arrakis](/Arrakis) theme
+
+![](/Asset/Arrakis.png)
+- Now only available at Pling.com [Link](https://www.pling.com/p/1901258/)
 #### [Dziban](/Dziban) theme
 
 ![](/Asset/Dziban.png)
