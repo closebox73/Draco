@@ -84,4 +84,4 @@ one of them are the following people:
 	- Bargraph Lua by wlourf
 	- Rings meter Lua by londonali1010
 
-<p align="center"><a href="https://github.com/closebox73/Draco/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=D30054"/></a></p>
+<p align="center"><a href="https://github.com/closebox73/Draco/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=GNU GENERAL PUBLIC LICENSE v3&logoColor=white&logo=github&colorA=282C35&colorB=D30054"/></a></p>
